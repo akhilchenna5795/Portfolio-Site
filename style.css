@@ -1,0 +1,164 @@
+.navbar-brand{
+    padding-left: 20px;
+}
+
+#profile-image{
+    height:300px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#about-name{
+    text-align: center;
+}
+
+#about-branch1{
+    text-align: center;
+}
+
+#about-branch2{
+    text-align: center;
+}
+
+#college-link{
+    display: block;
+    text-align: center;
+}
+
+#about-icons{
+ text-align: center;
+}
+
+#facebook{
+    padding-right: 20px;
+}
+
+#instagram{
+    padding-right: 20px;
+}
+
+#linkedin{
+    padding-right: 20px;
+}
+
+#icon-facebook{
+    transition: transform .2s;
+  }
+  
+  #icon-facebook:hover {
+    transform: scale(1.2);
+  }
+  
+  #icon-instagram{
+    transition: transform .2s;
+  }
+  
+  #icon-instagram:hover {
+    transform: scale(1.2);
+  }
+  
+  #icon-linkedin{
+    transition: transform .2s;
+  }
+  
+  #icon-linkedin:hover {
+    transform: scale(1.2);
+  }
+  
+  #icon-twitter{
+      transition: transform .2s;
+  }
+  
+  #icon-twitter:hover {
+    transform: scale(1.2);
+  }
+  
+#home-about{
+    padding-left: 10px;
+}
+
+#about-info{
+    text-align: left;
+    font-size: 1.5em;
+    padding-left: 10px;
+}
+
+#icon-computer{
+    padding-top: 20px;
+    padding-left: 50px;
+    height:70px;
+}
+
+#icon-electrical{
+    padding-left: 50px;
+    height:50px;
+}
+
+#home-list-electrical{
+    padding-top: 10px;
+}
+
+#aiesec{
+   text-align: center;
+}
+
+#icon-aiesec{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#sportsfete{
+    text-align: center;
+}
+
+#icon-sportsfete{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#languages-1{
+  text-align: center;
+}
+
+#languages-2{
+  text-align: center;
+}
+
+#tools-1{
+  text-align: center;
+}
+
+#tools-2{
+  text-align: center;
+}
+
+#mail-icon{
+text-align: left;
+padding-left: 45px;
+}
+
+#mail-text{
+  text-align: left;
+  padding-top: 15px;
+}
+
+#phone-icon{
+  text-align: left;
+  padding-left: 55px;
+  }
+  
+#phone-number{
+    text-align: left;
+    padding-top: 15px;
+}
+
+#contact-text{
+  text-align: center;
+}
+
+html{
+  scroll-behavior: smooth;
+}
